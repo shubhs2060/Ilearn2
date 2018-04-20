@@ -3,7 +3,7 @@ package com.ilearn.isdcgloballimited.ilearn.api.model;
 import java.util.List;
 
 /**
- * Created by a rubyeffect on 19/4/18.
+ * Created by rubyeffect on 19/4/18.
  */
 
 public class Course {
