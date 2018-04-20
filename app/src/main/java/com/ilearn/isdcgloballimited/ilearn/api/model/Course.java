@@ -3,13 +3,13 @@ package com.ilearn.isdcgloballimited.ilearn.api.model;
 import java.util.List;
 
 /**
- * Created by rubyeffect on 19/4/18.
+ * Created by a rubyeffect on 19/4/18.
  */
 
 public class Course {
 
     private List<Course> courses = null;
-    String name,webSource,webSourceUrl,trainerName,duration,rating;
+    private String name,webSource,webSourceUrl,trainerName,duration,rating;
 
 
     public String getName() {
