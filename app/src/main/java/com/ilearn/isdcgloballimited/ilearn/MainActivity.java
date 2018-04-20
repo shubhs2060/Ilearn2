@@ -24,6 +24,7 @@ public class MainActivity extends AppCompatActivity {
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
+        //color testing
         //TextView txtTest = (TextView) findViewById(R.id.logoText);
         //txtTest.setText(Html.fromHtml("This is <font color='#ff4343'>Red</font> Color!"));
 
